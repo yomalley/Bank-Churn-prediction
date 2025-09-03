@@ -1,6 +1,6 @@
 # 🏦 Bank Customer Churn Prediction using Neural Networks
 
-This project uses a **code deep learning approach** to predict whether bank customers are likely to churn (leave the bank).  
+This project uses a **Deep learning approach** to predict whether bank customers are likely to churn (leave the bank).  
 The model leverages **Artificial Neural Networks (ANNs)** to classify customers based on demographic and transactional features.
 
 ---
